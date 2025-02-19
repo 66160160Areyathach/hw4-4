@@ -1,0 +1,22 @@
+export const questions = [
+    { id: 1, text: "2 + 2 = ?", choices: ["3", "4", "5", "6"], correct: "4" },
+    { id: 2, text: "5 + 3 = ?", choices: ["7", "8", "9", "10"], correct: "8" },
+    { id: 3, text: "10 - 4 = ?", choices: ["5", "6", "7", "8"], correct: "6" },
+    { id: 4, text: "3 x 3 = ?", choices: ["6", "7", "8", "9"], correct: "9" },
+    { id: 5, text: "15 ÷ 3 = ?", choices: ["3", "4", "5", "6"], correct: "5" },
+    { id: 6, text: "7 + 6 = ?", choices: ["11", "12", "13", "14"], correct: "13" },
+    { id: 7, text: "9 - 3 = ?", choices: ["4", "5", "6", "7"], correct: "6" },
+    { id: 8, text: "4 x 5 = ?", choices: ["15", "20", "25", "30"], correct: "20" },
+    { id: 9, text: "12 ÷ 2 = ?", choices: ["5", "6", "7", "8"], correct: "6" },
+    { id: 10, text: "18 - 7 = ?", choices: ["9", "10", "11", "12"], correct: "11" },
+    { id: 11, text: "6 x 6 = ?", choices: ["30", "32", "35", "36"], correct: "36" },
+    { id: 12, text: "14 ÷ 2 = ?", choices: ["5", "6", "7", "8"], correct: "7" },
+    { id: 13, text: "20 - 9 = ?", choices: ["9", "10", "11", "12"], correct: "11" },
+    { id: 14, text: "8 x 3 = ?", choices: ["20", "22", "24", "26"], correct: "24" },
+    { id: 15, text: "25 ÷ 5 = ?", choices: ["4", "5", "6", "7"], correct: "5" },
+    { id: 16, text: "30 - 15 = ?", choices: ["12", "13", "14", "15"], correct: "15" },
+    { id: 17, text: "9 x 2 = ?", choices: ["16", "17", "18", "19"], correct: "18" },
+    { id: 18, text: "36 ÷ 6 = ?", choices: ["5", "6", "7", "8"], correct: "6" },
+    { id: 19, text: "42 - 20 = ?", choices: ["20", "21", "22", "23"], correct: "22" },
+    { id: 20, text: "7 x 7 = ?", choices: ["45", "46", "47", "49"], correct: "49" }
+]; 
